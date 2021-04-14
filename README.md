@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=749FB8DD5PZ8S)
+
 # Scalari
 Scalari is a tool that helps builders of scale models.
 
