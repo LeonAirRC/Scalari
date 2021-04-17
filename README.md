@@ -1,8 +1,5 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=749FB8DD5PZ8S)
 
-# Scalari
-Scalari is a tool that helps builders of scale models.
-
 #### Download Windows Portable
 - download and unzip [Scalari.zip](https://www.dropbox.com/s/ac0h683ifh448fu/Scalari%201.0.zip?dl=1)
 
