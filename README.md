@@ -29,3 +29,6 @@ Don't worry if this sounds complicated, the built-in tutorial introduces all fea
 - bug report
 - DPI calculator
 - highly customizable interface
+
+#### License
+[GNU General Public License v3.0](LICENSE)
