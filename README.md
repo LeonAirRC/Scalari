@@ -25,10 +25,11 @@ Don't worry if this sounds complicated, the built-in tutorial introduces all fea
 
 #### Additional features
 - image export (optionally including all grahpical elements)
-- frequent updates
+- built-in tutorial
+- tabbed layout for parallel productivity
 - bug report
 - DPI calculator
-- highly customizable interface
+- customizable interface
 
-#### License
+### License
 [GNU General Public License v3.0](LICENSE)
