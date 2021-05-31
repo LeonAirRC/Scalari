@@ -9,7 +9,7 @@
 - execute the jar file ([troubleshoot](https://thegeekpage.com/unable-to-run-jar-files-in-windows-10-heres-the-solution/))
 
 ## Why use Scalari?
-Model makers often find themselves with nothing more than an image of the original.
+Model makers often find themselves with nothing more than an image of the model.
 That's all you need, because with Scalari you can:
 - produce true-scale prints of an image
 - measure lengths, angles and proportions
