@@ -20,7 +20,7 @@ That's all you need, because with Scalari you can:
 Every project starts with the selection of an image. After that it can be configured by placing two nodes that correspond to a segment with a known length.
 Then you can either insert the desired scale or the desired length of the defined segment for the model.
 
-## Tutotial
+## Tutorial
 Don't worry if this sounds complicated, the built-in tutorial introduces all features and gives detailed explanations.
 
 #### Additional features
